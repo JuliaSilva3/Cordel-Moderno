@@ -1,11 +1,11 @@
 # Cordel Moderno
  Cordel Moderno criado durante a aula do Curso em Video do Gustavo Guanabara
  
-# Cordel Moderno
 
 ## Descrição
 
 Este projeto apresenta um poema em formato de cordel, escrito por Milton Duarte, que reflete sobre a relação entre a tecnologia moderna e a comunicação. O conteúdo é estilizado com HTML e CSS, proporcionando uma experiência visual agradável.
+Desenvolvido durante atividade apresentada pelo curso em vídeo. Tem como objetivo introduzir as imagens e suas funcionalidades em um site.
 
 ## Tecnologias Utilizadas
 
@@ -22,6 +22,7 @@ Este projeto apresenta um poema em formato de cordel, escrito por Milton Duarte,
 O poema é dividido em várias seções, cada uma abordando aspectos diferentes da comunicação na era digital. As seções são formatadas de forma a destacar a poesia e as emoções transmitidas.
 
 ## Acesse o Site
+**https://cordel-moderno-gamma.vercel.app/**
 
 ### Seções do Poema
 
