@@ -22,7 +22,7 @@ Desenvolvido durante atividade apresentada pelo curso em vídeo. Tem como objeti
 O poema é dividido em várias seções, cada uma abordando aspectos diferentes da comunicação na era digital. As seções são formatadas de forma a destacar a poesia e as emoções transmitidas.
 
 ## Acesse o Site
-**https://cordel-moderno-gamma.vercel.app/**
+**https://cordel-moderno-gamma.vercel.app/
 
 ### Seções do Poema
 
